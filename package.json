@@ -7,6 +7,7 @@
   "author": "The Lins",
   "license": "MIT",
   "dependencies": {
+    "glamorous": "^4.13.1",
     "react": "^16.6.0"
   }
 }
