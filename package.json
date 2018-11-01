@@ -1,0 +1,9 @@
+{
+  "name": "LinChat",
+  "version": "1.0.0",
+  "description": "A real-time chat application that features group chat, direct messaging and media sharing.",
+  "main": "index.js",
+  "repository": "https://github.com/LinStudio/LinChat",
+  "author": "The Lins",
+  "license": "MIT"
+}
